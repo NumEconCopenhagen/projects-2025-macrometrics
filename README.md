@@ -1,9 +1,7 @@
-# [Group name]
+# [MacroMetrics]
 
 **Group members:**
-- A
-- B
-- C
+- Elias Mendahl Meding Engelmann / dqt805
 
 **This repository contains:***
 
